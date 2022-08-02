@@ -1,5 +1,5 @@
-# SQL Hunter
-SQL Hunter v1 is a URL SQL injection checker for multiple pages at once
+# SQL Hunter 
+SQL Hunter v1 is a URL SQL injection checker for multiple pages at once!
 
 <h2> The program is suitable for all different OS</h2>
 
