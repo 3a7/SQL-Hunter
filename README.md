@@ -25,7 +25,7 @@ SQL Hunter v1 is a URL SQL injection checker for multiple pages at once
 2. Download the wanted libraries in the `requirements.txt`
 3. Open the terminal or the command prompt and navigate to the folder you downloaded the repo
 4. Make sure you have python 3 installed and run this command `python "SQL Hunter v1.py"`
-> i
+> It's better to NOT use proxies if you don't have paid ones. The program works perfectly without proxies
 
 <h3> Check pages' vulnerability </h3>
 In this mode the program simply adds an apostrophe (') in the end of the URL and checks if the page responses with an error or not. If the page responses with an error then the program sends another request to the original page without the apostrophe, if there's no error in the page the program counts the page as vulnerable.
