@@ -3,7 +3,7 @@ SQL Hunter v1 is a URL SQL injection checker for multiple pages at once!
 
 <h2> The program is suitable for all different OS</h2>
 
-> On Linux distribution, Windows 10 and 11, Android (Termux App on any app that runs python files) and IPhone (Pythonista)
+> On Linux distribution, Windows 10 and 11, Android (Termux App or any app that runs python files) and IPhone (Pythonista)
 
 > NOTE: DO NOT ADD MANY UNCHECKABLE LINKS IN THE TESTING PROCESS, THIS WILL LEAD TO HIGH CPU AND EVEN CRASHING YOUR SOFTWARE.<br>
 An example of a checkable page:   http://www.example.org/article.php?id=9<br>
